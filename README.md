@@ -7,6 +7,9 @@ A compact gearbox designed in SolidWorks and entirely 3D printed (plus bearings)
 - Printer changes : The initial solid aluminium axles from early design concepts to 3D printable DfAM (Design for Additive Manufacturing) PLA axles. Utilising the 30% gyroid infill setting, the axles underwent a 54% mass reduction (65.9g to 30.3g) while also improving the torque transmission capacity.
 - Slicer settings (Ulti-maker Creality Slicer): 30% Gyroid infill for axles, 0.17m layer height, 0.28mm initial layer height, no supports needed.
 
+- Full gearbox assembly drawing with exploded view here:
+[Gearbox Drawing Full assembly](6.pdf)
+
 ## Folder contents
 - `solidworks/` - original part and SLDPRT and SLDASM files
 - `stl/` - print-ready STL files
