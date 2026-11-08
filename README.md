@@ -1,5 +1,5 @@
 # 3D-Printed-Gearbox
-A compact gearbox designed in SolidWorks and 3D printed.
+A compact gearbox designed in SolidWorks and entirely 3D printed (plus bearings).
 
 ## Specs
 - Gear ratio: 20.4:1
